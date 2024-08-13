@@ -51,8 +51,25 @@ link
 * [acesse o instagran](https://www.instagram.com)
 
 * [acesse meu github](https://github.com/JosePCAmaral)
+
+Tabelas:
  
 Num | Nome | Nota
 ---|---|---
 1 | José | 9,5
 2 | Gustavo | 8,0 
+
+Linha de código:
+
+'print("Olá Mundo");'
+
+Meu Código:
+
+'''
+int valor;
+Print("Digite um valor");
+scanf(%d,&valor);
+if(valor<20){
+    printf("Valor muito baixo");
+    }
+'''
