@@ -52,3 +52,7 @@ link
 
 * [acesse meu github](https://github.com/JosePCAmaral)
  
+Num | Nome | Nota
+---|---|---
+1 | José | 9,5
+2 | Gustavo | 8,0 
