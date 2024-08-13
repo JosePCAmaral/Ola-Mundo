@@ -47,5 +47,9 @@ Lista de Tarefas:
 - [] fazer aquilo lá
 
 link
-[acesse o instagran](https://www.instagram.com)
-[acesse meu github](https://https://github.com/JosePCAmaral)
+
+* [acesse o instagran](https://www.instagram.com)
+
+* [acesse meu github][def]
+
+[def]: https://https://github.com/JosePCAmaral
