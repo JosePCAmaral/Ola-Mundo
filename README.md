@@ -50,6 +50,5 @@ link
 
 * [acesse o instagran](https://www.instagram.com)
 
-* [acesse meu github][def]
-
-[def]: https://github.com/JosePCAmaral
+* [acesse meu github](https://github.com/JosePCAmaral)
+ 
