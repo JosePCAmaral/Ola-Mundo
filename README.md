@@ -73,3 +73,5 @@ if(valor<20){
     printf("Valor muito baixo");
     }
 ```
+
+emoji 🇧🇷 🎱 🖖
