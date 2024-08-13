@@ -52,4 +52,4 @@ link
 
 * [acesse meu github][def]
 
-[def]: https://https://github.com/JosePCAmaral
+[def]: https://github.com/JosePCAmaral
