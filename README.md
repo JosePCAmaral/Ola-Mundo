@@ -61,15 +61,15 @@ Num | Nome | Nota
 
 Linha de código:
 
-'print("Olá Mundo");'
+`print("Olá Mundo");`
 
 Meu Código:
 
-'''
+```
 int valor;
 Print("Digite um valor");
 scanf(%d,&valor);
 if(valor<20){
     printf("Valor muito baixo");
     }
-'''
+```
